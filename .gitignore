@@ -1,0 +1,16 @@
+.cursor/
+.idea/
+.vscode/
+*.log
+*.env
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+desktop.ini
+_shots/
+node_modules/
+.vercel/
+.cache/
+*.local
